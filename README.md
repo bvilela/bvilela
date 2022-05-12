@@ -13,10 +13,10 @@ Java backend Developer.
 <br/>
 
 <a href="#">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=bvilela&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=bvilela&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvilela&layout=compact&theme=github_dark" />
+  <img align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvilela&layout=compact&theme=github_dark" />
 </a>
 
 -----
