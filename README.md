@@ -2,6 +2,10 @@
 
 Java backend Developer.
 
+<!--
+![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
+-->
+
 <a href="https://www.linkedin.com/in/bruno-vilela-19959b95/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
