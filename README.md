@@ -24,7 +24,7 @@ Java backend Developer.
 </a>
 
 
-## :star: Star repositories
+## :star: Stars repositories
 
 <a href="https://github.com/bvilela/poc-spring-cloud-open-feign">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-spring-cloud-open-feign&show_owner=true&theme=github_dark" />
@@ -53,4 +53,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Badges
+https://github.com/Ileriayo/markdown-badges
+https://github.com/iuricode/README-template/blob/main/badges/badges.md
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
