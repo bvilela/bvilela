@@ -1,6 +1,8 @@
 ## Hi, I'm Bruno Vilela 👋
 
-Java backend Developer.
+Java Backend Developer.
+
+Main Stack: Java and AWS (ECS, Fargate, ApiGateway, Lambda, SQS, DynamoDB).
 
 <!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
@@ -29,20 +31,30 @@ Java backend Developer.
 <a href="https://github.com/bvilela/poc-spring-cloud-open-feign">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-spring-cloud-open-feign&show_owner=true&theme=github_dark" />
 </a>
+<a href="https://github.com/bvilela/poc-angular-firebase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-angular-firebase&show_owner=true&theme=github_dark" />
+</a>
 
-
-## ⚡ Technologies
+## 🔧 Technologies and Tools
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 <!--
 **bvilela/bvilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
