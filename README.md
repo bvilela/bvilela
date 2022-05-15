@@ -2,12 +2,16 @@
 
 Java Backend Developer.
 
-Main Stack: Java and AWS (ECS, Fargate, ApiGateway, Lambda, SQS, DynamoDB).
+:pushpin: **Main Stack:** Java and AWS (ECS, Fargate, ApiGateway, Lambda, SQS, DynamoDB).
+
+:dart: **Studying:** Frontend (HTML, CSS, JS, TS, Angular) and AWS.
 
 <!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
 -->
 
+
+## :mailbox: Social
 <a href="https://www.linkedin.com/in/bruno-vilela-19959b95/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,6 +22,7 @@ Main Stack: Java and AWS (ECS, Fargate, ApiGateway, Lambda, SQS, DynamoDB).
 <br/>
 <br/>
 
+## :bar_chart: GitHub Stats
 <a href="#">
   <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=bvilela&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
