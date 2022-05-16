@@ -39,6 +39,9 @@ Java Backend Developer.
 <a href="https://github.com/bvilela/poc-angular-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-angular-firebase&show_owner=true&theme=github_dark" />
 </a>
+<a href="https://github.com/bvilela/poc-github-actions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-github-actions&show_owner=true&theme=github_dark" />
+</a>
 
 ## 🔧 Technologies and Tools
 
