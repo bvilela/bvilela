@@ -42,6 +42,9 @@ Java Backend Developer.
 <a href="https://github.com/bvilela/poc-github-actions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=poc-github-actions&show_owner=true&theme=github_dark" />
 </a>
+<a href="https://github.com/bvilela/java-util-validation-lib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bvilela&repo=java-util-validation-lib&show_owner=true&theme=github_dark" />
+</a>
 
 ## 🔧 Technologies and Tools
 
