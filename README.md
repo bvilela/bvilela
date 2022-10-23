@@ -10,6 +10,9 @@ Java Backend Developer.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
 -->
 
+<a href="https://www.credly.com/badges/a73023cf-381c-48d2-a3ee-6c9e4c99556e/public_url">
+  <img align="center" src="images/aws-certified-cloud-practitioner-150x150.png" />
+</a>
 
 ## :mailbox: Social
 <a href="https://www.linkedin.com/in/bruno-vilela-19959b95/">
