@@ -14,6 +14,10 @@ Java Backend Developer.
   <img align="center" src="images/aws-certified-cloud-practitioner-150x150.png" />
 </a>
 
+<a href="https://www.credly.com/earner/earned/badge/b9f1b1e9-1084-41d3-a6c3-d56c14ab0440">
+  <img align="center" src="images/aws-cloud-quest-cloud-practitioner-150x150.png" />
+</a>
+
 ## :mailbox: Social
 <a href="https://www.linkedin.com/in/bruno-vilela-19959b95/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
