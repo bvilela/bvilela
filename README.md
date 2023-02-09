@@ -10,7 +10,7 @@ Java Backend Developer.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
 -->
 
-<a href="https://www.credly.com/earner/earned/badge/b9f1b1e9-1084-41d3-a6c3-d56c14ab0440">
+<a href="https://www.credly.com/badges/b9f1b1e9-1084-41d3-a6c3-d56c14ab0440">
   <img align="center" src="images/aws-cloud-quest-cloud-practitioner-150x150.png" />
 </a>
 
