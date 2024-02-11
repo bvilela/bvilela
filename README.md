@@ -2,9 +2,9 @@
 
 Java Backend Developer.
 
-:pushpin: **Main Stack:** Java and AWS (ECS, Fargate, ApiGateway, Lambda, SQS, DynamoDB).
+:pushpin: **Main Stack:** Java, AWS e Terraform.
 
-:dart: **Studying:** Frontend (HTML, CSS, JS, TS, Angular) and AWS.
+:dart: **Studying:** AWS, Java e Terraform.
 
 <!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
