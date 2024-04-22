@@ -22,6 +22,11 @@ Java Backend Developer.
   <img align="center" src="images/aws-certified-solutions-architect-associate-150x150.png" />
 </a>
 
+<a href="https://www.credly.com/badges/00f944bf-70dc-4748-acda-306165e875e0/public_url">
+  <img align="center" src="images/aws-certified-developer-associate-150x150.png" />
+</a>
+
+
 ## :mailbox: Social
 <a href="https://www.linkedin.com/in/bruno-vilela-19959b95/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
