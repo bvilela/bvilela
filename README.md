@@ -4,7 +4,7 @@ Java Backend Developer.
 
 :pushpin: **Main Stack:** Java, Python, Cloud AWS, Terraform.
 
-:dart: **Studying:** Cloud AWS, Java, Software Engineering.
+:dart: **Studying:** Cloud AWS, Java, Software Engineering, CI/CD.
 
 <!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bvilela)
