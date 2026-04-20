@@ -18,6 +18,10 @@ Java Backend Developer.
   <img align="center" src="images/aws-certified-cloud-practitioner-150x150.png" />
 </a>
 
+<a href="https://www.credly.com/badges/47893a96-9eab-487e-9a51-89a6b4a8b32d/public_url">
+  <img align="center" src="images/aws-certified-ai-practitioner-150x150.png" />
+</a>
+
 <a href="https://www.credly.com/badges/1ba75e51-7c19-46e5-98b1-991c6ae26380/public_url">
   <img align="center" src="images/aws-certified-solutions-architect-associate-150x150.png" />
 </a>
