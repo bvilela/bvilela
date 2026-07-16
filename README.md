@@ -38,6 +38,9 @@ Java Backend Developer.
 <a href="https://medium.com/@brunovilela2008">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+<a href="https://skillsprofile.skillbuilder.aws/user/bvilela">
+  <img align="center" src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws" />
+</a>
 
 <br/>
 <br/>
